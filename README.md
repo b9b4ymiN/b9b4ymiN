@@ -55,6 +55,18 @@ I'm a Senior Software Engineer in Thailand, currently contributing at **Microchi
 
 ---
 
+### Selected Projects
+<a id="projects"></a>
+
+- StockCal — Position sizing and DCA calculator for traders and investors. Live: https://stock-cal.vercel.app/
+
+<p align="center">
+  <a href="https://stock-cal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Try%20StockCal-Live-2962FF?style=for-the-badge" alt="Try StockCal" /></a>
+  
+</p>
+
+---
+
 ### Stats
 <a id="stats"></a>
 
@@ -72,17 +84,12 @@ I'm a Senior Software Engineer in Thailand, currently contributing at **Microchi
 <a id="connect"></a>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/thitipat-pengruean-451ba9138/]" target="_blank">
+  <a href="https://www.linkedin.com/in/thitipat-pengruean-451ba9138/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:[dev.thitipat@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Optional: Portfolio/Blog
-  <a href="[PORTFOLIO_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  -->
 </p>
 
 <div align="center">
