@@ -9,7 +9,14 @@
   <p>
     <a href="#about">About</a> • <a href="#tech-stack">Tech Stack</a> • <a href="#highlights">Highlights</a> • <a href="#projects">Selected Projects</a> • <a href="#stats">Stats</a> • <a href="#connect">Connect</a>
   </p>
-  [![Tokscale Stats](https://tokscale.ai/api/embed/b9b4ymiN/svg?compact=1)](https://tokscale.ai/u/b9b4ymiN)
+    <p>
+    <a href="https://tokscale.ai/u/b9b4ymiN">
+      <img
+        src="https://tokscale.ai/api/embed/b9b4ymiN/svg?compact=1"
+        alt="Tokscale Stats"
+      />
+    </a>
+  </p>
 </div>
 
 ---
