@@ -12,7 +12,9 @@
 </div>
 
 ---
+<div align="center">
 [![Tokscale Stats](https://tokscale.ai/api/embed/b9b4ymiN/svg?sort=cost&compact=1)](https://tokscale.ai/u/b9b4ymiN)
+</div>
 ---
 
 ### About
