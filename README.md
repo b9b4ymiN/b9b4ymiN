@@ -1,98 +1,100 @@
 <div align="center">
-
-# Thitipat Pengruean
-
-**Senior Software Engineer · .NET & TypeScript**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thitipat-pengruean-451ba9138/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.thitipat@gmail.com)
-[![Location](https://img.shields.io/badge/Bangkok%2C_Thailand-555?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![Tokscale](https://tokscale.ai/api/embed/b9b4ymiN/svg?compact=1)](https://tokscale.ai/u/b9b4ymiN)
-
+  <h1>Hi, I'm B9B4YMIN</h1>
+  <h3>Software Engineer · .NET & TypeScript</h3>
+  <p>
+    <a href="https://github.com/b9b4ymin?tab=followers"><img src="https://img.shields.io/github/followers/b9b4ymin?label=Followers&style=flat-square" alt="GitHub Followers" /></a>
+    <a href="https://github.com/b9b4ymin"><img src="https://img.shields.io/badge/Location-Thailand-2962FF?style=flat-square" alt="Location: Thailand" /></a>
+    <a href="#connect"><img src="https://img.shields.io/badge/Availability-Open%20to%20connect-2E7D32?style=flat-square" alt="Open to connect" /></a>
+  </p>
+  <p>
+    <a href="#about">About</a> • <a href="#tech-stack">Tech Stack</a> • <a href="#highlights">Highlights</a> • <a href="#projects">Selected Projects</a> • <a href="#stats">Stats</a> • <a href="#connect">Connect</a>
+  </p>
+  [![Tokscale](https://tokscale.ai/api/embed/b9b4ymiN/svg?compact=1)](https://tokscale.ai/u/b9b4ymiN)
 </div>
 
 ---
 
-## About
+### About
+<a id="about"></a>
 
-Senior Software Engineer at **Microchip Technology**, building reliable and scalable systems across the full stack with a focus on backend architecture, distributed services, and clean code.
+I'm a Senior Software Engineer in Thailand, currently contributing at **Microchip Technology**. I build reliable, scalable systems across the stack with **C#/.NET** and **JavaScript/TypeScript**.
 
-- **Currently:** High-performance backends, distributed services, clean architecture in .NET & TypeScript  
-- **Learning:** Rust and Go — systems programming and concurrency  
-- **Interests:** System design, DevOps, developer experience  
-- **Outside work:** Stock & crypto markets, distance running  
-
----
-
-## Tech Stack
-
-### Languages
-![C#](https://skillicons.dev/icons?i=cs)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### Frameworks & Libraries
-![.NET](https://skillicons.dev/icons?i=dotnet)
-![React](https://skillicons.dev/icons?i=react)
-![Vue](https://skillicons.dev/icons?i=vue)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Databases
-![Oracle](https://skillicons.dev/icons?i=oracle)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-### Tools & Platforms
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+- Focus: high-performance backends, distributed services, clean architecture.
+- Learning: Rust and Go for systems and concurrency.
+- Interests: system design, DevOps, and developer experience.
+- Outside code: markets from stocks to crypto, and distance running.
+- Ask me about .NET, system architecture, Docker, and CI/CD.
 
 ---
 
-## Experience Highlights
+### Tech Stack
+<a id="tech-stack"></a>
 
-| Area | What I've Done |
-|---|---|
-| **Backend Services** | Designed and shipped production-grade APIs — REST, gRPC, background workers in .NET |
-| **Architecture** | Led refactors toward clean architecture patterns and testable codebases |
-| **DevOps** | Containerized workloads with Docker; streamlined local dev and CI/CD pipelines |
-| **Collaboration** | Worked cross-functionally to improve performance, observability, and release cadence |
-
----
-
-## Projects
-
-### [StockCal](https://stock-cal.vercel.app/)
-> Position sizing and DCA calculator for traders and investors.
-
-A web tool designed to help retail traders make more disciplined, math-backed trading decisions — covering position sizing, dollar-cost averaging, and risk management.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2962FF?style=for-the-badge&logo=vercel&logoColor=white)](https://stock-cal.vercel.app/)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,html,css&perline=14" alt="Languages" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,bootstrap&perline=14" alt="Frameworks & Libraries" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,sqlite&perline=14" alt="Databases" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio&perline=14" alt="Tools & Platforms" />
+  </a>
+  <br/>
+  <sub>Comfortable across backend services, APIs, and front-end integrations.</sub>
+</p>
 
 ---
 
-## GitHub Stats
+### Highlights
+<a id="highlights"></a>
+
+- Designed and shipped production services with .NET (REST, gRPC, background workers).
+- Led refactors toward clean architecture and testable codebases.
+- Containerized workloads with Docker and streamlined local development.
+- Collaborated across teams to improve performance, observability, and release cadence.
+
+---
+
+### Selected Projects
+<a id="projects"></a>
+
+- StockCal — Position sizing and DCA calculator for traders and investors. Live: https://stock-cal.vercel.app/
+
+<p align="center">
+  <a href="https://stock-cal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Try%20StockCal-Live-2962FF?style=for-the-badge" alt="Try StockCal" /></a>
+  
+</p>
+
+---
+
+### Stats
+<a id="stats"></a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=b9b4ymin&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b9b4ymin&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=b9b4ymin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### Connect
+<a id="connect"></a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thitipat-pengruean-451ba9138/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:[dev.thitipat@gmail.com]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=b9b4ymin&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=b9b4ymin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=b9b4ymin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>Always learning. Always building.</sub>
+  <sub>
+    Thanks for visiting — always learning, always building.
+  </sub>
 </div>
