@@ -66,7 +66,7 @@ I'm a Senior Software Engineer in Thailand, currently contributing at **Microchi
 ### Selected Projects
 <a id="projects"></a>
 
-- StockCal — Position sizing and DCA calculator for traders and investors. Live: https://stock-cal.vercel.app/
+- bothBook — all my personal Calm Reading Library for investors. Live: [https://stock-cal.vercel.app/](https://b9b4ymin.github.io/bothBook/)
 
 <p align="center">
   <a href="https://b9b4ymin.github.io/bothBook/" target="_blank"><img src="https://img.shields.io/badge/Try%20StockCal-Live-2962FF?style=for-the-badge" alt="Try bothBook" /></a>
