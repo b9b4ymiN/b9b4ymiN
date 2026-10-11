@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="THP — Make the complex work in practice" width="100%" />
-  <h1>Hi, I'm Thitipat ("Best")</h1>
+  <h1>Thitipat P.</h1>
   <p><strong>Principal Software Engineer · Problem Solver · Systems Builder</strong></p>
   <p>I turn ambiguous, real-world problems into software systems people can actually use.</p>
   <p>
@@ -15,6 +14,9 @@
     <a href="#tech-stack">Tech stack</a> ·
     <a href="#connect">Connect</a>
   </p>
+  <p>
+    <a href="https://tokscale.ai/u/b9b4ymiN"><img alt="Tokscale Stats for @b9b4ymiN" src="https://tokscale.ai/api/embed/b9b4ymiN/svg?sort=cost&template=graph&color=halloween&rank=total&tokens=compact&cost=full" /></a>
+  </p>
 </div>
 
 ---
@@ -22,7 +24,7 @@
 <a id="about"></a>
 ## About
 
-I'm a **Principal Software Engineer at Microchip Technology**, based in Thailand, with **10 years of experience** working at the intersection of software, semiconductor manufacturing, and business operations.
+I'm a **Principal Software Engineer** based in Thailand, with **10 years of experience** working at the intersection of software, semiconductor manufacturing, and business operations.
 
 My work starts before the first line of code: understanding how people work, identifying the real constraint, shaping requirements, designing a solution, and carrying it through integration, deployment, training, and improvement.
 
