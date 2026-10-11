@@ -1,15 +1,20 @@
 <div align="center">
   <img src="assets/profile-banner.svg" alt="THP — Make the complex work in practice" width="100%" />
-
-  # Hi, I'm Thitipat ("Best")
-
-  **Principal Software Engineer · Problem Solver · Systems Builder**
-
-  I turn ambiguous, real-world problems into software systems people can actually use.
-
-  [**Portfolio & CV**](https://thp-thitipat-cv.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/thitipat-pengruean-451ba9138/) · [**Email**](mailto:dev.thitipat@gmail.com)
-
-  [About](#about) · [Real-world impact](#real-world-impact) · [Projects](#projects) · [Tech stack](#tech-stack) · [Connect](#connect)
+  <h1>Hi, I'm Thitipat ("Best")</h1>
+  <p><strong>Principal Software Engineer · Problem Solver · Systems Builder</strong></p>
+  <p>I turn ambiguous, real-world problems into software systems people can actually use.</p>
+  <p>
+    <a href="https://thp-thitipat-cv.vercel.app/"><strong>Portfolio &amp; CV</strong></a> ·
+    <a href="https://www.linkedin.com/in/thitipat-pengruean-451ba9138/"><strong>LinkedIn</strong></a> ·
+    <a href="mailto:dev.thitipat@gmail.com"><strong>Email</strong></a>
+  </p>
+  <p>
+    <a href="#about">About</a> ·
+    <a href="#real-world-impact">Real-world impact</a> ·
+    <a href="#projects">Projects</a> ·
+    <a href="#tech-stack">Tech stack</a> ·
+    <a href="#connect">Connect</a>
+  </p>
 </div>
 
 ---
