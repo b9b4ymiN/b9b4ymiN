@@ -1,102 +1,94 @@
 <div align="center">
-  <h1>Hi, I'm B9B4YMIN</h1>
-  <h3>Software Engineer · .NET & TypeScript</h3>
-  <p>
-    <a href="https://github.com/b9b4ymin?tab=followers"><img src="https://img.shields.io/github/followers/b9b4ymin?label=Followers&style=flat-square" alt="GitHub Followers" /></a>
-    <a href="https://github.com/b9b4ymin"><img src="https://img.shields.io/badge/Location-Thailand-2962FF?style=flat-square" alt="Location: Thailand" /></a>
-    <a href="#connect"><img src="https://img.shields.io/badge/Availability-Open%20to%20connect-2E7D32?style=flat-square" alt="Open to connect" /></a>
-  </p>
-  <p>
-    <a href="#about">About</a> • <a href="#tech-stack">Tech Stack</a> • <a href="#highlights">Highlights</a> • <a href="#projects">Selected Projects</a> • <a href="#stats">Stats</a> • <a href="#connect">Connect</a>
-  </p>
-    <p>
-     <a href="https://tokscale.ai/u/b9b4ymiN"><img alt="Tokscale Stats for @b9b4ymiN" src="https://tokscale.ai/api/embed/b9b4ymiN/svg?sort=cost&template=graph&color=halloween&rank=total&tokens=compact&cost=full" /></a>
-  </p>
+  <img src="assets/profile-banner.svg" alt="THP — Make the complex work in practice" width="100%" />
+
+  # Hi, I'm Thitipat ("Best")
+
+  **Principal Software Engineer · Problem Solver · Systems Builder**
+
+  I turn ambiguous, real-world problems into software systems people can actually use.
+
+  [**Portfolio & CV**](https://thp-thitipat-cv.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/thitipat-pengruean-451ba9138/) · [**Email**](mailto:dev.thitipat@gmail.com)
+
+  [About](#about) · [Real-world impact](#real-world-impact) · [Projects](#projects) · [Tech stack](#tech-stack) · [Connect](#connect)
 </div>
 
 ---
 
-### About
 <a id="about"></a>
+## About
 
-I'm a Senior Software Engineer in Thailand, currently contributing at **Microchip Technology**. I build reliable, scalable systems across the stack with **C#/.NET** and **JavaScript/TypeScript**.
+I'm a **Principal Software Engineer at Microchip Technology**, based in Thailand, with **10 years of experience** working at the intersection of software, semiconductor manufacturing, and business operations.
 
-- Focus: high-performance backends, distributed services, clean architecture.
-- Learning: Rust and Go for systems and concurrency.
-- Interests: system design, DevOps, and developer experience.
-- Outside code: markets from stocks to crypto, and distance running.
-- Ask me about .NET, system architecture, Docker, and CI/CD.
+My work starts before the first line of code: understanding how people work, identifying the real constraint, shaping requirements, designing a solution, and carrying it through integration, deployment, training, and improvement.
 
----
+I care less about the title of the technology and more about whether the solution **solves the right problem, works in production, and stays useful**.
 
-### Tech Stack
-<a id="tech-stack"></a>
+**Where I focus:** manufacturing digitalization · end-to-end solution ownership · data-intensive applications · AI engineering and agent systems.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,html,css&perline=14" alt="Languages" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,bootstrap&perline=14" alt="Frameworks & Libraries" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,sqlite&perline=14" alt="Databases" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio&perline=14" alt="Tools & Platforms" />
-  </a>
-  <br/>
-  <sub>Comfortable across backend services, APIs, and front-end integrations.</sub>
-</p>
+<a id="real-world-impact"></a>
+## Real-world impact
 
----
+Some of my most meaningful work lives inside production environments rather than public GitHub repositories.
 
-### Highlights
-<a id="highlights"></a>
+- **Digital manufacturing:** Initiated and led the evolution of paper-based manufacturing records into electronic workflows, including cross-team coordination and multi-site rollout in Thailand and the Philippines.
+- **Production traceability:** Developed solutions around manufacturing records, strip-level mapping, process and quality data, and operational integrations.
+- **Planning and material visibility:** Built systems that bring fragmented factory and business data together to support clearer, faster decisions.
 
-- Designed and shipped production services with .NET (REST, gRPC, background workers).
-- Led refactors toward clean architecture and testable codebases.
-- Containerized workloads with Docker and streamlined local development.
-- Collaborated across teams to improve performance, observability, and release cadence.
+**My working loop:** Discover the problem → Define the requirements → Design the system → Build and integrate → Deploy and learn.
 
----
+> Enterprise systems and their source code remain private. The projects below are public work I can share.
 
-### Selected Projects
 <a id="projects"></a>
+## Projects
 
-- bothBook — all my personal Calm Reading Library for investors. Live: [https://stock-cal.vercel.app/](https://b9b4ymin.github.io/bothBook/)
+### AI engineering, agents & developer workflows
 
-<p align="center">
-  <a href="https://b9b4ymin.github.io/bothBook/" target="_blank"><img src="https://img.shields.io/badge/Try%20StockCal-Live-2962FF?style=for-the-badge" alt="Try bothBook" /></a>
-  
-</p>
+| Project | Why I built it |
+| :--- | :--- |
+| **[BA Discovery](https://github.com/b9b4ymiN/ba-discovery)** | A structured business-analysis skill suite for AI coding workflows: clarify the problem, maintain traceable decisions, and produce an approved FRD *before* implementation. |
+| **[zcrew](https://github.com/b9b4ymiN/zcrew)** | A multi-agent coding workflow where Claude Code or Codex plans and reviews while ZCode workers implement, with feedback loops for corrections. |
+| **[brain-mcp](https://github.com/b9b4ymiN/brain-mcp)** | A Git-backed MCP knowledge engine for durable agent memory, searchable knowledge, relationships, and auditable changes. |
+| **[JellyCore](https://github.com/b9b4ymiN/JellyCore)** | A self-hosted AI assistant platform combining persistent memory, multi-channel orchestration, isolated execution, and an operations UI. |
+| **[best-brain](https://github.com/b9b4ymiN/best-brain)** | An evolving, local-first AI work system focused on mission management, worker coordination, and evidence-based completion. |
 
----
+### Investment research & knowledge tools
 
-### Stats
-<a id="stats"></a>
+| Project | What it explores |
+| :--- | :--- |
+| **[midas](https://github.com/b9b4ymiN/midas)** | Research skills that move from financial evidence to valuation, long-term business quality, risk, and a reviewable investment thesis. |
+| **[one4all](https://github.com/b9b4ymiN/one4all)** | An AI investment research war room with specialized agents, structured debate, evidence checks, and decision governance. |
+| **[bothBook](https://github.com/b9b4ymiN/bothBook)** | A lightweight, public knowledge-sharing site built as an online book. [Read it here](https://b9b4ymin.github.io/bothBook/). |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b9b4ymin&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b9b4ymin&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=b9b4ymin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+*I build across domains, but the through-line is the same: turn scattered information and unclear requirements into systems that support better decisions.*
 
----
+<a id="tech-stack"></a>
+## Tech stack
 
-### Connect
+| Area | Tools & technologies |
+| :--- | :--- |
+| **Applications & backend** | C#, .NET, ASP.NET, WPF, TypeScript, JavaScript, React, Next.js |
+| **Data & integration** | Oracle Database, SQL Server, SQLite, REST APIs, system integration |
+| **Infrastructure & delivery** | Windows Server, IIS, Linux, Docker, Git, CI/CD, Azure DevOps |
+| **AI & automation** | MCP, AI agent orchestration, local LLMs, RAG/knowledge systems, n8n, Python, Rust |
+
+I choose the stack based on the problem, existing constraints, and long-term maintainability—not the other way around.
+
 <a id="connect"></a>
+## Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thitipat-pengruean-451ba9138/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[dev.thitipat@gmail.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I'm interested in **digital manufacturing, solution architecture, practical AI systems, and engineering workflows that make teams more effective**.
+
+- **[Portfolio / CV](https://thp-thitipat-cv.vercel.app/)** — professional background and selected work
+- **[LinkedIn](https://www.linkedin.com/in/thitipat-pengruean-451ba9138/)** — connect professionally
+- **[Email](mailto:dev.thitipat@gmail.com)** — reach out directly
+
+<details>
+  <summary>GitHub activity</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=b9b4ymiN&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub contribution summary" />
+  </p>
+</details>
 
 <div align="center">
-  <sub>
-    Thanks for visiting — always learning, always building.
-  </sub>
+  <sub>Understand the problem. Own the outcome. Keep improving.</sub>
 </div>
